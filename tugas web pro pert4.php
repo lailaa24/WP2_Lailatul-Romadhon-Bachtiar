@@ -12,7 +12,7 @@
 
 echo"$hasil<br>";
 echo"Panjang Sisi Kubus = $pnjng_sisi<br>";
-echo"Volume Kubus = $volume cm3<br>";
+echo"Volue Kubus = $volume cm3<br>";
 ?>
 </body>
 </html>
